@@ -1,0 +1,1 @@
+GEMINI_API_KEY= "AIzaSyBr-sK9qyEqGeebkUiWp1eET0xqNMycBaQ" #Key provided by prof

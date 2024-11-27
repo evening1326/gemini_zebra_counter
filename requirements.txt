@@ -1,0 +1,5 @@
+# also need to do pip install -U git+https://github.com/google-gemini/generative-ai-python@imagen
+google-generativeai
+Pillow
+config
+genai
